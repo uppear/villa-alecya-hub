@@ -1,0 +1,9 @@
+/* TEAM */
+Agency: Uppear
+Author: Stanislas
+Website: https://uppear.com
+
+/* AEO Project */
+Client: Villa Alecya
+Location: Sainte-Catherine-de-Fierbois, Indre-et-Loire, France
+Date: 2025-08-17
